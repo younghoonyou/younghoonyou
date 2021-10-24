@@ -1,4 +1,4 @@
-# 👨‍💻YOU Young Hoon<br>My Major is Electronic Engineering ⚡️
+# 👨‍💻YOU Young Hoon<br>Major&emsp;Electronic Engineering⚡️
 <div align="center">
 
 ## 🛠Tech Stack🛠
@@ -12,3 +12,5 @@
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=honor)](https://solved.ac/kcnoh2@hanyang.ac.kr/)
+
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonyou&show_icons=true&theme=radical)
