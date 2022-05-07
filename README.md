@@ -13,7 +13,7 @@
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazonaws&logoColor=yellow) ![nginx](https://img.shields.io/badge/Nginx-009639?style=round-square&logo=nginx&logoColor=white) ![mysql](https://img.shields.io/badge/Mysql-4479A1?style=round-square&logo=mysql&logoColor=white) ![firebase](https://img.shields.io/badge/Firebase-29B6F6?style=round-square&logo=firebase&logoColor=FFCA28)
 
 ### ETC
-![notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white) ![anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white) ![ros](https://img.shields.io/badge/ROS-22314E?style=round-square&logo=ros&logoColor=white) 
+![notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white) ![anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white) ![ros](https://img.shields.io/badge/ROS-22314E?style=round-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-black?style=round-square&logo=Linux&logoColor=#FCC624)
 </div>
  
 
