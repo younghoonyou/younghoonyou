@@ -1,4 +1,4 @@
-# 👨‍💻YOU Young Hoon<br>Major&emsp;Electronic Engineering⚡️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghoonyou&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 👨‍💻YOU Young Hoon
 <div align="center">
 
 # 🛠Tech Stack🛠
@@ -14,7 +14,7 @@
 
 ### ETC
 ![notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white) ![anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white) ![ros](https://img.shields.io/badge/ROS-22314E?style=round-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-black?style=round-square&logo=Linux&logoColor=#FCC624)
-</div>
  
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonyou&show_icons=true&theme=algolia)
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=honor)](https://solved.ac/kcnoh2@hanyang.ac.kr/) ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonyou&show_icons=true&theme=algolia)
