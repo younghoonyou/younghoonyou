@@ -15,6 +15,5 @@
 ### ETC
 ![notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=notion&logoColor=white) ![anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white) ![ros](https://img.shields.io/badge/ROS-22314E?style=round-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-black?style=round-square&logo=Linux&logoColor=#FCC624)
  
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonyou&show_icons=true&theme=algolia)
 </div>
 
